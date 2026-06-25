@@ -19,21 +19,6 @@
 
 ---
 
-### 🚀 Проекты
-
-| Проект | Описание |
-|--------|----------|
-| [Blemonitor](https://github.com/Malliol/Blemonitor) | 📱 Android-приложение для мониторинга ESP32 по Bluetooth BLE |
-| [RAYDRON1](https://github.com/Malliol/RAYDRON1) | 🚁 Проект с дроном |
-| [Rieltorie](https://github.com/Malliol/Rieltorie) | 🏠 Риэлторское приложение |
-| [New_bot](https://github.com/Malliol/New_bot) | 🤖 Telegram бот |
-| [3Dperevod](https://github.com/Malliol/3Dperevod) | 🎮 3D перевод |
-| [WetAgro](https://github.com/Malliol/WetAgro) | 🌾 Агро-приложение (Java) |
-| [bot_sv](https://github.com/Malliol/bot_sv) | 🐍 Python бот |
-| [winow](https://github.com/Malliol/winow) | 🖥 Веб-сервер на OneScript |
-
----
-
 ### 📊 Статистика
 
 <p align="center">
