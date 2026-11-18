@@ -1,9 +1,4 @@
 <h1 align="center">Привет, я Николай 👋</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Python+Developer;Android+%2F+IoT+Engineer;1C+Developer;Always+learning+something+new" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🛠 Технологии и инструменты
